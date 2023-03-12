@@ -262,5 +262,9 @@ for image in images:
     100% [.......................................................................] 272234 / 272234
 
 
+### Todo
+- [ ] Update to newer version
+- [ ] Add more feature for tags, search and ...
+
 
 **By [Momento]("https://github.com/ali-moments/")**
