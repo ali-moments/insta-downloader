@@ -1,4 +1,4 @@
-# Web Scraping Instagram with python
+# Web Scraping Instagram with python [OutDated]
 
 ### AUTOMATING IMAGE EXTRACTION
 
